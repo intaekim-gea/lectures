@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - string_service_plugin (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - string_service_plugin (from `.symlinks/plugins/string_service_plugin/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  string_service_plugin:
+    :path: ".symlinks/plugins/string_service_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  string_service_plugin: d10809c80e367890ee9489ad406c96035101950a
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.16.1
